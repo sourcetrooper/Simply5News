@@ -1,4 +1,4 @@
-class Api::V1::NewsController < ApplicationController
+class NewsController < ApplicationController
   before_action :set_news, only: [:show, :update, :destroy]
   # GET /News
   def index
