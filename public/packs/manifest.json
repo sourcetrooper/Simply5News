@@ -1,13 +1,13 @@
 {
-  "application.js": "/packs/js/application-2b7d02c2491d160b7623.js",
-  "application.js.map": "/packs/js/application-2b7d02c2491d160b7623.js.map",
+  "application.js": "/packs/js/application-0c49bcfa348a39f153bb.js",
+  "application.js.map": "/packs/js/application-0c49bcfa348a39f153bb.js.map",
   "entrypoints": {
     "application": {
       "js": [
-        "/packs/js/application-2b7d02c2491d160b7623.js"
+        "/packs/js/application-0c49bcfa348a39f153bb.js"
       ],
       "js.map": [
-        "/packs/js/application-2b7d02c2491d160b7623.js.map"
+        "/packs/js/application-0c49bcfa348a39f153bb.js.map"
       ]
     },
     "hello_react": {
@@ -20,15 +20,16 @@
     },
     "server_rendering": {
       "js": [
-        "/packs/js/server_rendering-90a4063b6c0c48a9cfd0.js"
+        "/packs/js/server_rendering-9e5807f58473d930ade8.js"
       ],
       "js.map": [
-        "/packs/js/server_rendering-90a4063b6c0c48a9cfd0.js.map"
+        "/packs/js/server_rendering-9e5807f58473d930ade8.js.map"
       ]
     }
   },
   "hello_react.js": "/packs/js/hello_react-ec90d79d04c0a9bb2286.js",
   "hello_react.js.map": "/packs/js/hello_react-ec90d79d04c0a9bb2286.js.map",
-  "server_rendering.js": "/packs/js/server_rendering-90a4063b6c0c48a9cfd0.js",
-  "server_rendering.js.map": "/packs/js/server_rendering-90a4063b6c0c48a9cfd0.js.map"
+  "media/images/Simply5News.png": "/packs/media/images/Simply5News-5dfd9602.png",
+  "server_rendering.js": "/packs/js/server_rendering-9e5807f58473d930ade8.js",
+  "server_rendering.js.map": "/packs/js/server_rendering-9e5807f58473d930ade8.js.map"
 }

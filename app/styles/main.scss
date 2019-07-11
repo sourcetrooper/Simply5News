@@ -1,0 +1,33 @@
+//@import "bootstrap";
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: Purple;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  border: 3px solid black;
+}
+
+.home {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: #ffd323;
+  height: 100%;
+  margin: 0;
+  background-size: cover;
+}
+
+.mainlogo {
+  width: 500px;
+  height: 300px;
+  display: inline-block;
+
+  text-align: center;
+}
