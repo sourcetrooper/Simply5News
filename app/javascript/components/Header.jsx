@@ -6,11 +6,13 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <img
-          className="mainlogo"
-          src={require("../../images/Simply5News.png")}
-          alt="Main Logo"
-        />
+        <a href="http://localhost:3000/news">
+          <img
+            className="mainlogo"
+            src={require("../../images/Simply5News.png")}
+            alt="Main Logo"
+          />
+        </a>
       </div>
     );
   }

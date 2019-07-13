@@ -2991,3 +2991,760 @@ Processing by NewsController#index as HTML
 Completed 200 OK in 2477ms (Views: 2474.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/news" for ::1 at 2019-07-13 09:36:28 +0400
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/renish/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 1991ms (Views: 1975.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:48 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:49 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 58ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:50 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:51 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:52 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:52 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 53ms (Views: 52.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:53 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:43:53 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:44:06 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 8006ms (Views: 8003.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:45:01 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2588ms (Views: 2585.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:48:52 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2667ms (Views: 2665.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:49:36 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2447ms (Views: 2445.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:49:50 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 67ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:49:53 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:49:59 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2390ms (Views: 2388.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:52:06 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2507ms (Views: 2504.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:52:28 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2415ms (Views: 2413.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:53:10 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2459ms (Views: 2456.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:54:55 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:55:00 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2444ms (Views: 2442.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:55:10 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2425ms (Views: 2422.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:56:22 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2559ms (Views: 2555.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:57:00 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2465ms (Views: 2463.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:57:51 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2183ms (Views: 2181.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:58:14 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 39ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:58:16 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 65ms (Views: 64.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:59:32 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2573ms (Views: 2570.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 09:59:56 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2530ms (Views: 2528.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:01:42 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2446ms (Views: 2444.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:02:03 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:02:12 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2485ms (Views: 2483.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:02:41 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2480ms (Views: 2477.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:03:04 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2442ms (Views: 2440.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:04:44 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2560ms (Views: 2557.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:05:11 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 68ms (Views: 67.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:05:16 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2504ms (Views: 2502.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:06:07 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2513ms (Views: 2510.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:06:32 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2548ms (Views: 2545.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:07:17 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2515ms (Views: 2513.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:07:28 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2459ms (Views: 2456.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:20:26 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 3103ms (Views: 3100.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:21:54 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2651ms (Views: 2648.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:23:02 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:23:13 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2619ms (Views: 2617.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:24:02 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2559ms (Views: 2556.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:24:28 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 69ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:24:41 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2509ms (Views: 2506.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:25:57 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2630ms (Views: 2627.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:26:18 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2636ms (Views: 2633.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:34:38 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 3243ms (Views: 3240.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:38:26 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2694ms (Views: 2691.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:40:33 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2621ms (Views: 2619.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:41:02 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2505ms (Views: 2503.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:41:45 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2690ms (Views: 2688.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:55:19 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 3037ms (Views: 3034.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:55:39 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2607ms (Views: 2604.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:57:43 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2782ms (Views: 2780.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:58:13 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2657ms (Views: 2655.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:58:30 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 10:58:38 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2478ms (Views: 2475.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:06:51 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2896ms (Views: 2894.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:07:31 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2773ms (Views: 2771.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:09:36 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 64ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:09:46 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2433ms (Views: 2430.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:13:07 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2643ms (Views: 2639.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:13:22 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.0ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2694ms (Views: 2692.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:14:27 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2784ms (Views: 2781.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:19:35 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2583ms (Views: 2581.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:25:18 +0400
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/renish/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (2.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 7613ms (Views: 7601.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:27:25 +0400
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/renish/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.3ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 5328ms (Views: 5321.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:28:34 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2382ms (Views: 2380.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:32:04 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+Completed 200 OK in 2281ms (Views: 2279.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:35:48 +0400
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/renish/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (1.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 7168ms (Views: 7159.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:38:26 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 5060ms (Views: 5056.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:39:43 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2838ms (Views: 2834.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:42:18 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 53ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:42:20 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:42:25 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 4259ms (Views: 4256.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:43:33 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 4618ms (Views: 4614.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:43:43 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 41ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:43:46 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 65.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:43:46 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:43:47 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:44:26 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2753ms (Views: 2751.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:45:27 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2702ms (Views: 2699.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:45:43 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2744ms (Views: 2741.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/news" for ::1 at 2019-07-13 11:46:31 +0400
+Processing by NewsController#index as HTML
+  Rendering news/index.html.erb within layouts/application
+  Rendered news/index.html.erb within layouts/application (0.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/renish/Desktop/Rails-React/Simply5News/public/packs
+Completed 200 OK in 2706ms (Views: 2703.9ms | ActiveRecord: 0.0ms)
+
+
