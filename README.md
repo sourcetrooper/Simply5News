@@ -4,12 +4,10 @@
 
 # Simply5News
 
-Simply5News is a News Website which displays top 5 news and refreshes every 5 minutes
-
-
-# Project Description
+Simply5News is a News Website which displays top 5 news and refreshes every 5 minutes. 
 
 This project is based on react-rails. Ruby on Rails has been used for the Backend and React has been used for the front end.
+
 
 ## Requirements
 
